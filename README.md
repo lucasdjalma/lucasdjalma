@@ -13,9 +13,9 @@
 ## 💻 Sobre mim
 
 Sou desenvolvedor backend apaixonado por construir soluções escaláveis com **Java e Spring Boot**.  
-Trabalho com foco em **código limpo, boas práticas e performance**, utilizando **MySQL, MongoDB, Docker e AWS**.
+Trabalho com foco em **código limpo, boas práticas e performance**, utilizando **MySQL, MongoDB e Postman** para integração e testes de APIs.
 
-🚀 Atualmente estudando **microsserviços** e **deploys automatizados com Docker + AWS**.  
+🚀 Atualmente aprimorando meus conhecimentos em **arquitetura REST e padrões de projeto (DAO, DTO, Service Layer)**.  
 💬 Aberto a novas oportunidades e colaborações open source.  
 
 ---
@@ -27,8 +27,6 @@ Trabalho com foco em **código limpo, boas práticas e performance**, utilizando
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 </p>
 
@@ -60,17 +58,21 @@ Trabalho com foco em **código limpo, boas práticas e performance**, utilizando
 
 ---
 
-## 📦 Contribuições recentes
+## 🕓 Streaks e Contribuições Recentes
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=lucasdjalma&theme=react&hide_border=true&border_radius=6" />
+</p>
 
 <!--START_SECTION:activity-->
 1. 💪 Contribuiu com [workshop-spring-boot-mongodb](https://github.com/lucasdjalma/workshop-spring-boot-mongodb)
 2. 🧠 Aprimorou o código do projeto JDBC
 3. 🚀 Subiu commits de otimização no backend Spring Boot
-4. 🐳 Configurou integração Docker no ambiente de desenvolvimento
-5. 🔄 Atualizou dependências e melhorias de código limpo
+4. 🔄 Atualizou dependências e melhorias de código limpo
+5. 🧩 Implementou novas consultas com MongoRepository
 <!--END_SECTION:activity-->
 
-> 🕓 Este painel atualiza automaticamente suas últimas contribuições no GitHub.
+> ⚙️ Este painel atualiza automaticamente suas últimas contribuições no GitHub.
 
 ---
 
