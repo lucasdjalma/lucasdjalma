@@ -1,46 +1,76 @@
-# 👋 Olá, eu sou o Lucas Djalma
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/147542912?v=4" width="150" style="border-radius: 50%;" alt="Lucas Djalma"/>
+</p>
 
-🎯 **Desenvolvedor Backend Java | Spring Boot | MongoDB | MySQL**
+<h1 align="center">👋 Olá, eu sou o Lucas Djalma</h1>
 
-Sou apaixonado por tecnologia e por resolver problemas com código limpo e bem estruturado.  
-Atualmente, estou focado em aprimorar minhas habilidades com **Java + Spring Boot**, desenvolvendo APIs REST, integração com bancos de dados **MySQL** e **MongoDB**, e aplicando boas práticas de arquitetura e testes.
+<p align="center">
+  <b>Desenvolvedor Backend Java</b> • Foco em APIs REST, banco de dados e arquitetura limpa.  
+</p>
 
 ---
 
-## 🚀 Tecnologias & Ferramentas
+## 💻 Sobre mim
 
-### 💻 Backend
-- ☕ **Java (17/19)**
-- 🌱 **Spring Boot**
-- 🧩 **Spring Data JPA / MongoDB**
-- 🧪 **JUnit / Postman / Insomnia**
+Sou desenvolvedor backend apaixonado por construir soluções escaláveis com **Java e Spring Boot**.  
+Trabalho com foco em **código limpo, boas práticas e performance**, utilizando **MySQL, MongoDB, Docker e AWS**.
 
-### 🗄️ Banco de Dados
-- 🐬 **MySQL**
-- 🍃 **MongoDB**
+🚀 Atualmente estudando **microsserviços** e **deploys automatizados com Docker + AWS**.  
+💬 Aberto a novas oportunidades e colaborações open source.  
 
-### ⚙️ DevOps & Outras Skills
-- 🐳 **Docker / Kubernetes / Argo**
-- ☁️ **AWS**
-- 🔄 **Git / GitHub**
-- 🧠 **Clean Code / REST API Design**
+---
+
+## 🧩 Tecnologias & Ferramentas
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+</p>
 
 ---
 
 ## 🧱 Projetos em destaque
 
-### 🔹 [Workshop Spring Boot MongoDB](https://github.com/lucasdjalma/workshop-spring-boot-mongodb)
-API REST desenvolvida com **Spring Boot e MongoDB**, implementando CRUD completo, DTOs, consultas personalizadas e tratamento de exceções.
+🔹 [**Workshop Spring Boot MongoDB**](https://github.com/lucasdjalma/workshop-spring-boot-mongodb)  
+> API REST com CRUD completo, DTOs, consultas personalizadas e integração com MongoDB.  
 
-### 🔹 [Demo DAO JDBC](https://github.com/lucasdjalma/demo-dao-jdbc)
-Projeto de acesso a banco de dados utilizando **JDBC**, **DAO Pattern** e **MySQL**, com foco em boas práticas e separação de responsabilidades.
+🔹 [**Demo DAO JDBC**](https://github.com/lucasdjalma/demo-dao-jdbc)  
+> Projeto de acesso a banco de dados utilizando o padrão DAO com MySQL.  
+
+🔹 [**Sistema de Vendas JDBC**](https://github.com/lucasdjalma/demo-dao-jdbc)  
+> Aplicação de console com JDBC puro, boa separação de camadas e manipulação de dados.  
 
 ---
 
-## 📈 Atualmente estudando
-- Arquitetura de microsserviços com Spring Cloud  
-- Deploy automatizado com Docker e AWS ECS  
-- Testes unitários e integração contínua  
+## 📊 Estatísticas e Gráficos
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lucasdjalma&show_icons=true&theme=react&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasdjalma&layout=compact&theme=react&hide_border=true" height="150"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lucasdjalma&theme=react-dark&hide_border=true" />
+</p>
+
+---
+
+## 📦 Contribuições recentes
+
+<!--START_SECTION:activity-->
+1. 💪 Contribuiu com [workshop-spring-boot-mongodb](https://github.com/lucasdjalma/workshop-spring-boot-mongodb)
+2. 🧠 Aprimorou o código do projeto JDBC
+3. 🚀 Subiu commits de otimização no backend Spring Boot
+4. 🐳 Configurou integração Docker no ambiente de desenvolvimento
+5. 🔄 Atualizou dependências e melhorias de código limpo
+<!--END_SECTION:activity-->
+
+> 🕓 Este painel atualiza automaticamente suas últimas contribuições no GitHub.
 
 ---
 
@@ -52,15 +82,11 @@ Projeto de acesso a banco de dados utilizando **JDBC**, **DAO Pattern** e **MySQ
 
 ---
 
-## ⚡ Curiosidades
-
-- 🎓 Estudando para dominar **Spring Boot e arquitetura backend moderna**  
-- 🏃‍♂️ Atleta amador e triatleta — disciplina e consistência dentro e fora do código  
-- 💬 Aberto a novas oportunidades e colaborações em projetos open source  
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=lucasdjalma&color=blue&style=flat-square" alt="Profile views"/>
+</p>
 
 ---
 
-> 💡 *“O código limpo é aquele que você pode entender facilmente apenas lendo.”*  
-> — Robert C. Martin
-
----
+> 💡 *"Disciplina e consistência geram resultados — dentro e fora do código."*  
+> — Lucas Djalma
