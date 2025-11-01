@@ -13,10 +13,10 @@
 ## 💻 Sobre mim
 
 Sou desenvolvedor backend apaixonado por **construir soluções escaláveis e bem estruturadas** com **Java e Spring Boot**.  
-Busco evoluir constantemente em **boas práticas, design de software e arquitetura em camadas (Controller, Service, Repository)**.  
+Busco evoluir constantemente em **boas práticas**, **design de software** e **arquitetura em camadas (Controller, Service, Repository)**.  
 
-🧠 Atualmente estudando **JPA/Hibernate**, **Spring Data**, e integração com bancos **PostgreSQL**, **MySQL**, **H2** e **MongoDB**.  
-🚀 Tenho como objetivo me especializar em **desenvolvimento de APIs REST robustas** e contribuir para projetos **open source**.
+🧠 Atualmente estudando **JPA/Hibernate**, **Spring Data** e integração com bancos de dados **PostgreSQL**, **MySQL**, **H2** e **MongoDB**.  
+🚀 Tenho como objetivo me especializar em **desenvolvimento de APIs REST robustas** e contribuir com projetos **open source**.
 
 ---
 
@@ -41,10 +41,10 @@ Busco evoluir constantemente em **boas práticas, design de software e arquitetu
 > API REST completa com **Spring Boot**, **JPA/Hibernate**, **PostgreSQL** e **H2**, aplicando padrões de projeto e boas práticas.
 
 🔹 [**Workshop Spring Boot MongoDB**](https://github.com/lucasdjalma/workshop-spring-boot-mongodb)  
-> API REST com CRUD, DTOs, consultas customizadas e integração com **MongoDB**.
+> API REST com CRUD completo, DTOs, consultas customizadas e integração com **MongoDB**.
 
 🔹 [**Demo DAO JDBC**](https://github.com/lucasdjalma/demo-dao-jdbc)  
-> Projeto com **JDBC puro** e padrão **DAO**, mostrando manipulação direta de dados e boas práticas de arquitetura.
+> Projeto utilizando **JDBC puro** e padrão **DAO**, com foco em separação de camadas e acesso eficiente ao banco **MySQL**.
 
 🔹 [**Chess System Java**](https://github.com/lucasdjalma/Chess-System-java)  
 > Sistema de xadrez em console para praticar **POO**, **tratamento de exceções** e **estrutura de dados** em Java.
