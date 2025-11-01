@@ -15,7 +15,7 @@
 Sou um desenvolvedor backend dedicado a construir **APIs REST escaláveis e performáticas** com **Java e Spring Boot**.  
 Busco constantemente aprimorar minhas habilidades e aplicar **padrões de projeto** (DAO, DTO, Service Layer) que tornem o código mais limpo e manutenível.  
 
-🧠 Atualmente estudando **arquitetura REST** e **integração com bancos de dados relacionais e não relacionais (MySQL e MongoDB)**.  
+🧠 Atualmente estudando **arquitetura REST**, **JPA/Hibernate** e **integração com bancos de dados relacionais e não relacionais (PostgreSQL, MySQL e MongoDB)**.  
 🚀 Focado em evoluir como desenvolvedor e colaborar com projetos open source.  
 
 ---
@@ -25,24 +25,28 @@ Busco constantemente aprimorar minhas habilidades e aplicar **padrões de projet
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 </p>
 
 ---
 
-## 🧩 Projetos em destaque
+## 🧩 Projetos em Destaque
+
+🔹 [**Workshop Spring Boot JPA**](https://github.com/lucasdjalma/workshop-springboot-jpa)  
+> API REST com **Spring Boot**, **JPA/Hibernate** e **PostgreSQL**, aplicando boas práticas de arquitetura em camadas.
 
 🔹 [**Workshop Spring Boot MongoDB**](https://github.com/lucasdjalma/workshop-spring-boot-mongodb)  
-> API REST com CRUD completo, DTOs, consultas customizadas e integração com MongoDB.
+> API REST com CRUD completo, DTOs, consultas customizadas e integração com **MongoDB**.
 
 🔹 [**Demo DAO JDBC**](https://github.com/lucasdjalma/demo-dao-jdbc)  
-> Projeto demonstrando o padrão DAO com JDBC e MySQL, aplicando boas práticas de arquitetura.
+> Projeto demonstrando o padrão **DAO com JDBC e MySQL**, aplicando boas práticas de arquitetura.
 
 🔹 [**Chess System Java**](https://github.com/lucasdjalma/Chess-System-java)  
-> Sistema de xadrez em console para praticar POO, exceções e estrutura de dados em Java.
+> Sistema de xadrez em console para praticar **POO**, **exceções** e **estrutura de dados** em Java.
 
 ---
 
@@ -64,14 +68,6 @@ Busco constantemente aprimorar minhas habilidades e aplicar **padrões de projet
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=lucasdjalma&theme=react&hide_border=true&border_radius=6" />
 </p>
-
-<!--START_SECTION:activity-->
-1. 💪 Contribuiu com [workshop-spring-boot-mongodb](https://github.com/lucasdjalma/workshop-spring-boot-mongodb)  
-2. 🚀 Otimizou código e implementou novas funcionalidades em projetos Java  
-3. 🧠 Estudando arquitetura de microsserviços e padrões de projeto  
-4. 🧩 Refatorou camadas DAO e DTO em projetos Spring  
-5. 🔄 Atualizou dependências e implementou melhorias de desempenho  
-<!--END_SECTION:activity-->
 
 > ⚙️ *Este painel atualiza automaticamente suas últimas contribuições no GitHub.*
 
