@@ -5,18 +5,18 @@
 <h1 align="center">👋 Olá, eu sou o <strong>Lucas Djalma</strong></h1>
 
 <p align="center">
-  <b>Desenvolvedor Backend Java</b> • Apaixonado por código limpo, performance e boas práticas.  
+  <b>Desenvolvedor Backend Java</b> • Focado em APIs REST, arquitetura limpa e alta performance.
 </p>
 
 ---
 
 ## 💻 Sobre mim
 
-Sou um desenvolvedor backend dedicado a construir **APIs REST escaláveis e performáticas** com **Java e Spring Boot**.  
-Busco constantemente aprimorar minhas habilidades e aplicar **padrões de projeto** (DAO, DTO, Service Layer) que tornem o código mais limpo e manutenível.  
+Sou desenvolvedor backend apaixonado por **construir soluções escaláveis e bem estruturadas** com **Java e Spring Boot**.  
+Busco evoluir constantemente em **boas práticas, design de software e arquitetura em camadas (Controller, Service, Repository)**.  
 
-🧠 Atualmente estudando **arquitetura REST**, **JPA/Hibernate** e **integração com bancos de dados relacionais e não relacionais (PostgreSQL, MySQL e MongoDB)**.  
-🚀 Focado em evoluir como desenvolvedor e colaborar com projetos open source.  
+🧠 Atualmente estudando **JPA/Hibernate**, **Spring Data**, e integração com bancos **PostgreSQL**, **MySQL**, **H2** e **MongoDB**.  
+🚀 Tenho como objetivo me especializar em **desenvolvimento de APIs REST robustas** e contribuir para projetos **open source**.
 
 ---
 
@@ -28,6 +28,7 @@ Busco constantemente aprimorar minhas habilidades e aplicar **padrões de projet
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/H2_Database-005C8A?style=for-the-badge&logo=h2&logoColor=white"/>
   <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 </p>
@@ -37,16 +38,16 @@ Busco constantemente aprimorar minhas habilidades e aplicar **padrões de projet
 ## 🧩 Projetos em Destaque
 
 🔹 [**Workshop Spring Boot JPA**](https://github.com/lucasdjalma/workshop-springboot-jpa)  
-> API REST com **Spring Boot**, **JPA/Hibernate** e **PostgreSQL**, aplicando boas práticas de arquitetura em camadas.
+> API REST completa com **Spring Boot**, **JPA/Hibernate**, **PostgreSQL** e **H2**, aplicando padrões de projeto e boas práticas.
 
 🔹 [**Workshop Spring Boot MongoDB**](https://github.com/lucasdjalma/workshop-spring-boot-mongodb)  
-> API REST com CRUD completo, DTOs, consultas customizadas e integração com **MongoDB**.
+> API REST com CRUD, DTOs, consultas customizadas e integração com **MongoDB**.
 
 🔹 [**Demo DAO JDBC**](https://github.com/lucasdjalma/demo-dao-jdbc)  
-> Projeto demonstrando o padrão **DAO com JDBC e MySQL**, aplicando boas práticas de arquitetura.
+> Projeto com **JDBC puro** e padrão **DAO**, mostrando manipulação direta de dados e boas práticas de arquitetura.
 
 🔹 [**Chess System Java**](https://github.com/lucasdjalma/Chess-System-java)  
-> Sistema de xadrez em console para praticar **POO**, **exceções** e **estrutura de dados** em Java.
+> Sistema de xadrez em console para praticar **POO**, **tratamento de exceções** e **estrutura de dados** em Java.
 
 ---
 
